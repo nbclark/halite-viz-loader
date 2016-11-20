@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "serve": "babel-node --presets es2015 --  server.js"
+    "start": "babel-node --presets es2015 --  server.js"
   },
   "author": "Nicholas Clark",
   "license": "MIT",
