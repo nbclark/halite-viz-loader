@@ -1,0 +1,19 @@
+{
+  "name": "halite-viz-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "serve": "babel-node --presets es2015 --  server.js"
+  },
+  "author": "Nicholas Clark",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "body-parser": "^1.15.2",
+    "chokidar": "^1.6.1",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "sleep": "^5.0.0"
+  }
+}
